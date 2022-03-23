@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NanoCrypt
 - 👀 I’m interested in starting basics on coding
-- 🌱 I’m currently learning everything?
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on some pranks for April 1st
 - 📫 Do not want to be contacted
 
