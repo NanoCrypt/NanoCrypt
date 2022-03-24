@@ -12,6 +12,7 @@ Apart from Coding I like:
 - Biking
 - Doing something random
 - And digital art
+# 📠Technologies and Tools
 
 
 <!---
