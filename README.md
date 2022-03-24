@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/NanoCrypt/<OWNER>/<OWNER>/Sparkle.gif "Header")](https://some-url.dev/)
 - 👋 Hi, I’m @NanoCrypt
 - 👀 I’m interested in starting basics on coding
 - 🌱 I’m currently learning JavaScript
