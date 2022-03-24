@@ -2,11 +2,10 @@
 
 
 # 🍵Hi, I'm @NanoCrypt
-- 👋 Hi, I’m @NanoCrypt
-- 👀 I’m interested in starting basics on coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on some pranks for April 1st
-- 📫 Do not want to be contacted
+- 📟 I mainly code Javascript and a bit of Python
+- 📙 I'm new to Github but I've been coding since I was 7
+- ☕ I like Tea and Coffee
+- 🐕 As shown in the Header, I like dogs
 
 <!---
 NanoCrypt/NanoCrypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
