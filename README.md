@@ -1,4 +1,4 @@
-[![Header](https://github.com/NanoCrypt/NanoCrypt/edit/main/README.md/Sparkle.gif "Header")]
+[![Header](https://github.com/NanoCrypt/NanoCrypt/edit/main/Sparkle.gif "Header")]
 - 👋 Hi, I’m @NanoCrypt
 - 👀 I’m interested in starting basics on coding
 - 🌱 I’m currently learning JavaScript
