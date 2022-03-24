@@ -6,6 +6,13 @@
 - 📙 I'm new to Github but I've been coding since I was 7
 - ☕ I like Tea and Coffee
 - 🐕 As shown in the Header, I like dogs
+# 🏚️Hobbies
+Apart from Coding I like:
+- Playing Piano
+- Biking
+- Doing something random
+- And digital art
+
 
 <!---
 NanoCrypt/NanoCrypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
