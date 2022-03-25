@@ -13,7 +13,9 @@ Apart from Coding I like:
 - Doing something random
 - And digital art
 # 📠Technologies and Tools
-
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 # 🎬Github Stats
 ![@NanoCrypt's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanoCrypt&theme=gotham&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanoCrypt&theme=gotham&show_icons=true)](https://github.com/NanoCrypt/github-readme-stats)
