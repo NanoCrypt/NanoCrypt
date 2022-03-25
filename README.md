@@ -16,8 +16,7 @@ Apart from Coding I like:
 
 # 🎬Github Stats
 ![@NanoCrypt's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanoCrypt&theme=gotham&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanoCrypt&layout=compact)](https://github.com/NanoCrypt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanoCrypt&layout=compact&theme=gotham&show_icons=true)](https://github.com/NanoCrypt/github-readme-stats)
 
 
 <!---
