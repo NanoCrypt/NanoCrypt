@@ -17,6 +17,8 @@ Apart from Coding I like:
 # 🎬Github Stats
 ![@NanoCrypt's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanoCrypt&theme=gotham&show_icons=true)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<stats>/?username=<NanoCrypt>&theme=<gotham>" />
+
 
 <!---
 NanoCrypt/NanoCrypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
