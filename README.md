@@ -6,7 +6,7 @@
 - 📙 I'm new to Github but I've been coding since I was 7
 - ☕ I like Tea and Coffee
 - 🐕 As shown in the Header, I like dogs
-# 🏚️Hobbies
+# 🛋️Hobbies
 Apart from Coding I like:
 - Playing Piano
 - Biking
@@ -22,6 +22,9 @@ Apart from Coding I like:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanoCrypt&repo=April-Fools-BumbleBee-Floods&theme=gotham&show_icons=true)](https://github.com/NanoCrypt/April-Fools-BumbleBee-Floods)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanoCrypt&repo=NanoCrypt&theme=gotham&show_icons=true)](https://github.com/NanoCrypt/NanoCrypt)
+# 🛡️Trophies
+
+
 
 <!---
 NanoCrypt/NanoCrypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
