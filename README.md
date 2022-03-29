@@ -23,7 +23,7 @@ Apart from Coding I like:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanoCrypt&repo=April-Fools-BumbleBee-Floods&theme=gotham&show_icons=true)](https://github.com/NanoCrypt/April-Fools-BumbleBee-Floods)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanoCrypt&repo=NanoCrypt&theme=gotham&show_icons=true)](https://github.com/NanoCrypt/NanoCrypt)
 # 🛡️Trophies
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
